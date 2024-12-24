@@ -59,4 +59,4 @@ Install all the necessary libraries by running the following command:
    streamlit run dashboard.py
    ```
 ### Dashboard View
-![[Halaman1](https://github.com/srinamira/Projek-Analisis-Data/blob/main/submission/image/Dashboard.jpeg)
+![Halaman1](https://github.com/srinamira/Projek-Analisis-Data/blob/main/submission/image/Dashboard.jpeg)
