@@ -30,7 +30,7 @@
 
 
 ## 📝 Data Analysis With Python
-You can check the data analysis on [**notebook**](https://github.com/srinamira/Bike_Analysis/blob/main/submission/notebook.ipynb)
+You can check the data analysis on [**notebook**](https://github.com/srinamira/Projek-Analisis-Data/blob/main/submission/notebook.ipynb)
 
 ### Instalation
 Install all the necessary libraries by running the following command:
